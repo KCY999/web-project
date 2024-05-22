@@ -1,12 +1,12 @@
-import ShowData from "./showData"
-import './App.css'
+import MainComponent from "./MainComponent"
+// import './App.css'
 
 
 function App() {
 
   return (
     <>
-      <ShowData />
+      <MainComponent />
     </>
   )
 }
